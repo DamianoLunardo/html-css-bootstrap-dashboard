@@ -32,6 +32,14 @@
     height: calc(100vh - 50px);
 }
 
+.all main .menu{
+    background-color: #1B72E8;
+}
+
+.menu .badge{
+    background-color: #165BBA;
+}
+
 
 @media screen and (min-width:1200px) {
     .sidebar{
