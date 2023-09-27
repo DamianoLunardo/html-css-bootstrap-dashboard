@@ -1,0 +1,19 @@
+/*  logo navbar */
+.navbar-logo .logo-small, .navbar-logo svg{
+    height: 52px;
+}
+.navbar-logo .logo-small img{
+    height: 100%;
+    aspect-ratio: 1/1;
+}
+
+/* search bar */
+
+.navbar-light .input-group span, .navbar-light .input-group input{
+    background-color: #E5E5E5;
+}
+
+.dropdown button,.dropdown button:hover{
+    color: #FF8F00;
+}
+
