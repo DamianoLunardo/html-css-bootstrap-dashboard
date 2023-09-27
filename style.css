@@ -1,6 +1,6 @@
 /*  logo navbar */
 .navbar-logo .logo-small, .navbar-logo svg{
-    height: 52px;
+    height: 50px;
 }
 .navbar-logo .logo-small img{
     height: 100%;
@@ -29,6 +29,13 @@
 }
 
 .sidebar, .all main {
-    height: calc(100vh - 60px);
+    height: calc(100vh - 50px);
+}
+
+
+@media screen and (min-width:1200px) {
+    .sidebar{
+        width: 170px;
+    }
 }
 
