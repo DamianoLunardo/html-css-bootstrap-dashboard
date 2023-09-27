@@ -17,3 +17,18 @@
     color: #FF8F00;
 }
 
+/* sidebar */
+.sidebar{
+    background-color: #051E34;
+    background-image: url(./img/sidebar-bg.png);
+    width: 100px;
+}
+
+.all main {
+    width: 100%;
+}
+
+.sidebar, .all main {
+    height: calc(100vh - 60px);
+}
+
