@@ -40,6 +40,24 @@
     background-color: #165BBA;
 }
 
+.circle {
+    aspect-ratio: 1/1;
+    width: 32px;
+    background-color: #F26551;
+}
+
+.done{
+    background-color: #198754;
+}
+
+.process {
+    background-color: #FFC107;
+}
+
+.failed {
+    background-color: #DC3545;
+}
+
 
 @media screen and (min-width:1200px) {
     .sidebar{
