@@ -68,6 +68,13 @@ img {
     width: 100%;
 }
 
+/* hover effects */
+
+.sidebar .stats:hover, .sidebar .signal:hover, .sidebar .admin:hover, .sidebar .home:hover {
+    background-color: gray;
+}
+
+
 /* media for sidebar*/
 @media screen and (min-width:900px) {
     .sidebar{
