@@ -32,6 +32,8 @@
     height: calc(100vh - 50px);
 }
 
+/* blue section */
+
 .all main .menu{
     background-color: #1B72E8;
 }
@@ -39,6 +41,8 @@
 .menu .badge{
     background-color: #165BBA;
 }
+
+/*  next class */
 
 .circle {
     aspect-ratio: 1/1;
@@ -58,11 +62,13 @@
     background-color: #DC3545;
 }
 
+/* active user */
+
 img {
     width: 100%;
 }
 
-
+/* media for sidebar*/
 @media screen and (min-width:900px) {
     .sidebar{
         width: 170px;
